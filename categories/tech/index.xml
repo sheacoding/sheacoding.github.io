@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sheacoding&#39;s Blog</title>
-    <link>https://sheacoding.github.io/</link>
-    <description>Recent content on Sheacoding&#39;s Blog</description>
+    <title>Tech on Sheacoding&#39;s Blog</title>
+    <link>https://sheacoding.github.io/categories/tech/</link>
+    <description>Recent content in Tech on Sheacoding&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 23 Dec 2017 09:52:46 +0800</lastBuildDate>
     
-	<atom:link href="https://sheacoding.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sheacoding.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Sat, 23 Dec 2017 09:52:46 +0800</pubDate>
       
       <guid>https://sheacoding.github.io/post/hugo/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://sheacoding.github.io/about/</link>
-      <pubDate>Sat, 23 Dec 2017 09:51:24 +0800</pubDate>
-      
-      <guid>https://sheacoding.github.io/about/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
